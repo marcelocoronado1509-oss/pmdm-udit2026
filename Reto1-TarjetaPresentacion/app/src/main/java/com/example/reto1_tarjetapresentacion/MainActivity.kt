@@ -30,14 +30,13 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.reto1_tarjetapresentacion.ui.theme.Reto1TarjetaPresentacionTheme
-
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
         setContent {
             // Aplicamos el tema de colores del proyecto a todo lo de dentro
-            Reto1TarjetaPresentacionTheme {
+            Reto1TarjetaPresentacionTheme() {
                 // Surface = el "lienzo" de fondo que ocupa toda la pantalla
                 Surface(
                     modifier = Modifier.fillMaxSize(),
@@ -85,7 +84,7 @@ fun TarjetaPresentacion() {
 
         // TEXT: rol o profesión
         Text(
-            text = "Desarrollador MERN & Docente DAM",   // cada alumno pone el suyo
+            text = "Estudiante DAM",   // cada alumno pone el suyo
             fontSize = 18.sp,
             color = MaterialTheme.colorScheme.secondary   // color secundario del tema
         )
@@ -112,10 +111,7 @@ fun TarjetaPresentacion() {
 @Preview(showBackground = true)
 @Composable
 fun TarjetaPreview() {
-    Reto1TarjetaPresentacionTheme {
+    Reto1TarjetaPresentacionTheme() {
         TarjetaPresentacion()
     }
 }
-
-
-
