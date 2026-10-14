@@ -9,8 +9,7 @@
 
 Una tarjeta de presentación digital (versión simplificada de un Linktree) que muestra una foto de perfil, un nombre, un rol profesional y un botón que enlaza directamente al perfil de GitHub del autor.
 
-![Captura de la app](<img width="311" height="682" alt="image" src="https://github.com/user-attachments/assets/538de151-bad5-4535-aa91-29111cfd893e" />
-)
+"https://github.com/user-attachments/assets/538de151-bad5-4535-aa91-29111cfd893e"
 
 ## 🎯 Objetivo del reto
 
