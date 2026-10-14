@@ -11,11 +11,12 @@ A continuación, se deben añadir dos capturas de pantalla de la aplicación fun
 
 **Móvil en vertical:**
 
-img width="422" height="800" alt="image" src="https://github.com/user-attachments/assets/2d52cac1-b141-4b2a-8807-9b6b3c8568aa"
+ alt="image" src="https://github.com/user-attachments/assets/2d52cac1-b141-4b2a-8807-9b6b3c8568aa"
 
 **Tablet o móvil en horizontal:**
 
-![Captura de tablet]()
+![Captura de tablet](<img width="452" height="795" alt="image" src="https://github.com/user-attachments/assets/9f7cb33b-1048-4253-a00b-3b7323a32ac0" />
+)
 
 ### Esquema de referencia
 
