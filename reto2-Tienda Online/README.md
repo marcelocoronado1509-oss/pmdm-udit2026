@@ -10,11 +10,12 @@
 A continuación, se deben añadir dos capturas de pantalla de la aplicación funcionando en distintos dispositivos para demostrar que la interfaz se adapta al espacio disponible.
 
 **Móvil en vertical:**
-src="https://github.com/user-attachments/assets/2d52cac1-b141-4b2a-8807-9b6b3c8568aa"
+
+"https://github.com/user-attachments/assets/2d52cac1-b141-4b2a-8807-9b6b3c8568aa"
 
 **Tablet o móvil en horizontal:**
 
-src="https://github.com/user-attachments/assets/9f7cb33b-1048-4253-a00b-3b7323a32ac0" 
+"https://github.com/user-attachments/assets/9f7cb33b-1048-4253-a00b-3b7323a32ac0" 
 
 
 ### Esquema de referencia
