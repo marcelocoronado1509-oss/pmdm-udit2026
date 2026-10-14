@@ -63,28 +63,28 @@ data class Producto(
 
 val catalogoHamburguesas = listOf(
     Producto(
-        "Clasica con queso", "6,5 ",
-        R.drawable.burger_clasica
+        "Gafas rosas", "66€ ",
+        R.drawable.img_3
     ),
     Producto(
-        "BBQ BACON", "7,5 ",
-        R.drawable.burger_bbq
+        "gafas negras con azul", "75€ ",
+        R.drawable.img
     ),
     Producto(
-        "Doble carnes", "8,5 ",
-        R.drawable.burger_doble
+        "gafas negras con verde", "85€ ",
+        R.drawable.img_1
     ),
     Producto(
-        "Vegetariana", "7,2 ",
-        R.drawable.burger_vegetariana
+        "Gafas negras enteras", "72€",
+        R.drawable.img_2
     ),
     Producto(
-        "Picante Jalapeño", "7,8 ",
-        R.drawable.burger_picante
+        "gafas negras con azul polarizadas", "81€",
+        R.drawable.img_4
     ),
     Producto(
-        "Pollo crispy", "6,9 ",
-        R.drawable.burger_pollo
+        "Gafas polarizadas grandes", "82,5€ ",
+        R.drawable.img_5
     ),
 )
 
@@ -164,7 +164,7 @@ fun PantallaPrincipal(){
     }
     if (mostrarPortada){
         Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.Center){
-        Text("🍔 Burger shop", fontSize = 32.sp, fontWeight = FontWeight.Bold)
+        Text("Tienda de gafas de golf", fontSize = 32.sp, fontWeight = FontWeight.Bold)
 
     }
     }else{
