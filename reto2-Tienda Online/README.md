@@ -11,12 +11,15 @@ A continuación, se deben añadir dos capturas de pantalla de la aplicación fun
 
 **Móvil en vertical:**
 
-"https://github.com/user-attachments/assets/2d52cac1-b141-4b2a-8807-9b6b3c8568aa"
+<img width="1140" height="860" alt="Captura de pantalla 2026-10-14 202922" src="https://github.com/user-attachments/assets/d36b099b-11eb-4e89-a1dc-0f594fb49ec5" />
+
 
 **Tablet o móvil en horizontal:**
 
-"https://github.com/user-attachments/assets/9f7cb33b-1048-4253-a00b-3b7323a32ac0" 
-"https://github.com/user-attachments/assets/d71ffc17-8134-4f7e-a05d-aed7d9d07df6" 
+
+<img width="1140" height="860" alt="Captura de pantalla 2026-10-14 202922" src="https://github.com/user-attachments/assets/24a57ebe-e0f8-4e16-b734-9736d2ea3604" />
+<img width="532" height="797" alt="Captura de pantalla 2026-10-14 201114" src="https://github.com/user-attachments/assets/98d50e90-757c-4b98-b7bc-edd95101f774" />
+
 
 
 
