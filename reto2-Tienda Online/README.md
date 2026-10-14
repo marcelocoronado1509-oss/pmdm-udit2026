@@ -11,17 +11,20 @@ A continuación, se deben añadir dos capturas de pantalla de la aplicación fun
 
 **Móvil en vertical:**
 
-![Captura de móvil](img/capturas/movil.png)
+![Captura de móvil](<img width="422" height="800" alt="image" src="https://github.com/user-attachments/assets/2d52cac1-b141-4b2a-8807-9b6b3c8568aa" />
+)
 
 **Tablet o móvil en horizontal:**
 
-![Captura de tablet](img/capturas/tablet.png)
+![Captura de tablet]()
 
 ### Esquema de referencia
 
 La cuadrícula mantiene las mismas tarjetas y adapta el número de columnas según el espacio disponible.
 
-![Esquema responsive: móvil en vertical (2 columnas) y tablet en horizontal (4 columnas)](img/esquema-responsive.png)
+![Esquema responsive: móvil en vertical (2 columnas) y tablet en horizontal (4 columnas)](<<img width="532" height="797" alt="image" src="https://github.com/user-attachments/assets/9f2716e0-aae7-48c6-9b93-600b6a7fd910" />
+
+)
 
 ## 🎯 Objetivo del reto
 
