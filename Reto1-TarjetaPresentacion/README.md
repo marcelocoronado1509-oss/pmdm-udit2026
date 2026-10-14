@@ -74,6 +74,6 @@ app/src/main/res/mipmap-*/              → icono de la app
 app/src/main/res/values/strings.xml     → nombre visible de la app
 ```
 
-## 🔗 Enlace
+## https://github.com/marcelocoronado1509-oss/pmdm-udit2026/tree/main/Reto1-TarjetaPresentacion
 
 - GitHub: [github.com/joscanoav](https://github.com/joscanoav)
