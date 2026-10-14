@@ -10,8 +10,8 @@
 A continuación, se deben añadir dos capturas de pantalla de la aplicación funcionando en distintos dispositivos para demostrar que la interfaz se adapta al espacio disponible.
 
 **Móvil en vertical:**
+<img width="452" height="795" alt="Captura de pantalla 2026-10-14 201717" src="https://github.com/user-attachments/assets/8f0a0d03-14bf-4d15-83ba-137ef4581fef" />
 
-<img width="1140" height="860" alt="Captura de pantalla 2026-10-14 202922" src="https://github.com/user-attachments/assets/d36b099b-11eb-4e89-a1dc-0f594fb49ec5" />
 
 
 **Tablet o móvil en horizontal:**
