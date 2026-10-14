@@ -24,8 +24,9 @@ A continuación, se deben añadir dos capturas de pantalla de la aplicación fun
 
 La cuadrícula mantiene las mismas tarjetas y adapta el número de columnas según el espacio disponible.
 
-![Esquema responsive: móvil en vertical (2 columnas) y tablet en horizontal (4 columnas)](<<img width="532" height="797" alt="image" src="https://github.com/user-attachments/assets/9f2716e0-aae7-48c6-9b93-600b6a7fd910" , <img width="1142" height="861" alt="image" src="https://github.com/user-attachments/assets/5eb131e5-6ac0-4f2a-b187-8d374db92c60" />
- /> 
+![Esquema responsive: móvil en vertical (2 columnas) y tablet en horizontal (4 columnas)](<<img width="532" height="797" alt="image" src="https://github.com/user-attachments/assets/9f2716e0-aae7-48c6-9b93-600b6a7fd910" 
+ />,<img width="1140" height="860" alt="image" src="https://github.com/user-attachments/assets/9de82f32-a5ee-4a21-ad0e-eca3957530c1" />
+
 
 
 
