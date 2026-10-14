@@ -18,7 +18,7 @@ A continuación, se deben añadir dos capturas de pantalla de la aplicación fun
 
 
 <img width="1140" height="860" alt="Captura de pantalla 2026-10-14 202922" src="https://github.com/user-attachments/assets/24a57ebe-e0f8-4e16-b734-9736d2ea3604" />
-<img width="532" height="797" alt="Captura de pantalla 2026-10-14 201114" src="https://github.com/user-attachments/assets/98d50e90-757c-4b98-b7bc-edd95101f774" />
+
 
 
 
